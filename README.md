@@ -7,6 +7,7 @@ Quick Start - Will generate the path taken by the robot to find 5 interesting me
 
   - python final_proj_cog_rob.py
 
+Note: there is a small error that can occur very rarely (I discuss it in my report), but if it does not run on first try, just rerun it
 
 Documentation:
 
